@@ -1,4 +1,3 @@
-# My-Mobile-Apps
 # 👋 Hi, I'm Bryan Lai
 
 I'm an iOS app developer who enjoys creating clean, purposeful apps that enhance how we connect, create, and communicate.
